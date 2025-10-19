@@ -1,0 +1,36 @@
+Feature							Description
+Central Dashboard					View all events, vendors, costs, and timelines in one place.
+Vendor Booking					Search and book venues, caterers, decorators, and photographers.
+Real-time Availability				Instant updates if vendors or venues are free or booked.
+Price & Review					Comparison	Compare vendor prices, ratings, and reviews before booking.
+AI Event Suggestions				Smart recommendations for vendors, themes, and schedules.
+Task Checklist					Automatic to-do list for each event/sub-event.
+Integrated Chat/Call				Communicate with vendors directly within the app.
+Secure Payments					Pay vendors safely with automatic invoice generation.
+Notifications & Reminders			Alerts for bookings, cancellations, and schedule changes.
+Calendar Sync						Sync events with Google Calendar or in-app calendar.
+Budget Tracker					Track total expenses and cost breakdowns per sub-event.
+Sub-Event Management				Manage multiple sub-events like Mehendi, Sangeet, Reception separately.
+Document Storage					Upload contracts, menus, or photos for reference.
+Guest List Manager				Add, track, and send invites to guests.
+Reports & Analytics				Visual summaries of spending, tasks, and bookings.
+Search & Filters					Quickly find vendors by location, price, or service type.
+Multi-event Support				Plan multiple events simultaneously without confusion.
+Auto Conflict Detection				Prevent double bookings and scheduling overlaps.
+Theme & Decor Suggestions			Get ideas for decoration, music, and food themes.
+Feedback System					Rate vendors and leave reviews for future users.
+AI Budget Optimizer				Suggests best vendors and plans within your budget.
+Smart Timeline Generator			Auto-creates a schedule for all sub-events.
+Dynamic Seating Planner			Helps arrange guest seating efficiently.
+Live Event Tracker					Track event progress in real-time on the app.
+Collaborative Planning				Multiple users (family/friends) can plan together.
+Vendor Availability Prediction		AI predicts vendor availability trends.
+Customizable Themes				Choose and preview different themes digitally.
+Photo & Video Gallery				Upload and manage event media in one place.
+Emergency Backup Vendor List		Suggests alternative vendors if primary cancels.
+QR-based Guest Check-in			Guests can check in using a QR code.
+Mood & Music Suggestions			AI recommends playlists or DJ setups based on event type.
+Multi-language Support				Supports local languages for better accessibility.
+Sustainability Score				Shows eco-friendly vendor options.
+AI Chatbot Assistant				Answers user queries and guides through event planning.
+Predictive Cost Estimator			Estimates total costs based on selected services and past trends.

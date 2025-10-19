@@ -1,0 +1,45 @@
+IMPACTS 
+
+1. User Convenience & Efficiency
+	Time-saving: Users no longer need to contact multiple vendors separately.
+	Reduced stress: Automated planning, reminders, and AI suggestions simplify complex events.
+	Centralized management: Everything in one dashboard prevents confusion and overlaps.
+	Avoid double bookings: Real-time availability and conflict detection prevent scheduling issues.
+	Budget control: Expense tracking and AI budget optimization help users stay within budget.
+	Personalization: AI recommends themes, music, and vendors tailored to the user’s preferences.
+
+2. Vendor Benefits
+	Better exposure: Digital platform helps vendors reach more clients.
+	Real-time bookings: Vendors can update availability instantly, reducing miscommunication.
+	Feedback system: Ratings and reviews build credibility and attract more clients.
+	Payment automation: Secure, faster payments with auto-invoices improve cash flow.
+	AI suggestions for clients: Vendors suggested by AI are more likely to get bookings matching their specialties.
+
+3. Event Quality & Management
+	Organized sub-events: Each sub-event (e.g., Mehendi, Sangeet, Reception) is managed separately, avoiding overlaps.
+	Task completion tracking: Checklists and reminders ensure no task is missed.
+	Improved guest experience: Guest list management and QR check-in make entry smooth.
+	Real-time progress tracking: Organizers can monitor event flow live.
+	Customizable themes & decor: Ensures visually appealing, well-coordinated events.
+
+4. Transparency & Trust
+	Price & review comparison: Users can choose vendors confidently.
+	Cost breakdowns: Detailed expense reports improve transparency.
+	AI predictions: Users know probable costs, vendor availability, and schedules ahead of time.
+	Emergency backup options: Alternate vendors suggested reduce last-minute panic.
+
+5. Collaboration & Accessibility
+	Multi-user collaboration: Family, friends, or team members can plan together.
+	Multi-language support: Broadens accessibility for users in different regions.
+	Document storage: Contracts, menus, and photos kept digitally for easy sharing.
+
+6. Innovation & Advanced Tech
+	AI-driven suggestions: Makes the platform “smart” and futuristic.
+	Predictive analytics: AI predicts cost trends, vendor availability, and event success.
+	Sustainability tracking: Users can select eco-friendly vendors and practices.
+	Mood & music suggestions: AI enhances the ambiance of the event automatically.
+
+7. Social & Community Impact
+	Rating system: Helps future users select trustworthy vendors.	
+	Vendor community building: Encourages a digital ecosystem for local service providers.
+	Knowledge sharing: Users can see past event ideas, trends, and inspiration.

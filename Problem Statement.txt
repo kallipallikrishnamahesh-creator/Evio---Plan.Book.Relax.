@@ -1,0 +1,37 @@
+Problem Statement
+
+In today’s fast-moving lifestyle, people frequently organize or participate in various types of events — weddings, birthday parties, college fests, corporate functions, religious or cultural celebrations, and family gatherings.
+However, planning and managing these events is still one of the most stressful and confusing tasks, especially when multiple services and sub-events are involved.
+
+For example, in a wedding, there are multiple sub-functions such as:
+	Engagement
+	Mehandi
+	Sangeet
+	Haldi
+	Bachelor’s Party
+	Reception
+
+Each of these may require separate venues, different food menus, unique decorations, music, photography, and lighting setups. Coordinating all these manually becomes a nightmare — especially when users have to contact each service provider separately and handle multiple payments, confirmations, and reminders.
+
+The Core Problems Faced by Users
+
+Scattered Planning:
+People rely on several different tools — WhatsApp for communication, Google Calendar for reminders, separate websites for venues, and manual calls for caterers or photographers. This fragmented approach causes confusion and mismanagement.
+
+Availability Conflicts:
+It’s common for venues or vendors to already be booked on the desired dates. Users often find this out late, wasting valuable time.
+
+No Centralized View:
+There’s no single dashboard to view all bookings, costs, and event timelines in one place.
+
+Manual Coordination:
+Users need to call or message each vendor individually to finalize details like menus, themes, or schedules, leading to communication errors and inconsistent information.
+
+No Real-time Updates:
+Even after booking, there’s no live update mechanism to confirm availability changes, cancellations, or time shifts.
+
+Double Booking & Missed Reminders:
+Without automatic synchronization, users face overlaps in schedules or miss key reminders.
+
+Lack of Transparency:
+Comparing prices, checking vendor reviews, or getting clear cost breakdowns is difficult because most local vendors don’t have a digital presence
